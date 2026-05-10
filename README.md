@@ -1,4 +1,4 @@
-# etl_censo_lakeflow_designer
+# ETL Censo 2024 (Databricks Lakeflow Designer)
 
 Proceso ETL con datos del Censo de Chile del año 2024, usando Lakeflow Designer.
 
